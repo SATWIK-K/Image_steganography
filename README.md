@@ -22,7 +22,7 @@ just open the main.py and run
 
 ## Screenshots
 ![Alt text](Img-steno/Screenshots/1.png)
-![Alt text](Img-steno/Screenshots/2.png)
+
 
 
 Screenshots are in the Screenshots folder 
