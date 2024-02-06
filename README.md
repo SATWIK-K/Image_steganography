@@ -21,6 +21,7 @@ pip install tk
 just open the main.py and run
 
 ## Screenshots
-![Alt text](Img-steno/images/l2.ico)
+![Alt text](Img-steno/Screenshots/Screenshot 2024-02-05 170739.png)
+
 Screenshots are in the Screenshots folder 
 
